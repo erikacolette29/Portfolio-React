@@ -6,6 +6,9 @@ const NavBar = () => {
     <>
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
         <div class="container-fluid">
+          <a class="navbar-brand" id="color" href="#">
+            E
+          </a>
           <button 
             class="navbar-toggler"
             type="button"
@@ -20,7 +23,7 @@ const NavBar = () => {
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ">
               <li class="nav-item">
-                <a class="nav-link" id="color" aria-current="page" href="#">
+                <a class="nav-link" id="color" aria-current="page" href="#about">
                   About
                 </a>
               </li>
