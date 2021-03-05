@@ -6,9 +6,6 @@ const NavBar = () => {
     <>
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
         <div class="container-fluid">
-          <a class="navbar-brand" id="color" href="#">
-            E
-          </a>
           <button 
             class="navbar-toggler"
             type="button"
