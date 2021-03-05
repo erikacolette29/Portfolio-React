@@ -1,0 +1,31 @@
+.side-nav{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-right: 20px;
+    padding-bottom:30px;
+}
+
+#color{
+    color: #ccece6;
+    text-decoration: none;
+}
+
+i{
+color: #21e6c1;
+}
+
+nav{
+    margin: 20px;
+}
+.navbar-toggler-icon {
+    background-color: #21e6c28f;
+}
+
+#resume{
+    color: #21e6c1;
+    background-color: rgba(0, 0, 255, 0);
+    border: #21e6c1 2px solid;
+    padding: 5px 10px;
+    border-radius: 8%;
+}
