@@ -6,18 +6,49 @@
     padding-bottom:30px;
 }
 
+i{
+    color: #21e6c1;
+    }
+
 #color{
+    display: inline;
+    position: relative;
+    overflow: hidden;
     color: #ccece6;
-    text-decoration: none;
+}
+#color:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    width: 0;
+    bottom: -5px;
+    background: #ccece6;
+    height: 1px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+   
 }
 
-i{
-color: #21e6c1;
+#color:hover:after,
+.underline:focus:after,
+.underline:active:after {
+  left: 0;
+  right: auto;
+  width: 100%;
 }
+
 
 nav{
     margin: 20px;
 }
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+    padding-bottom: 20px;
+  }
+
 .navbar-toggler-icon {
     background-color: #21e6c28f;
 }
