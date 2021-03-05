@@ -42,16 +42,23 @@ i{
 
 
 nav{
-    margin: 20px;
+    
+    background-color: #111b35;
+  
+  padding: 20px;
+   
 }
 .navbar-nav > li{
+    padding-top: 20px;
     padding-left:30px;
     padding-right:30px;
     padding-bottom: 20px;
+  
   }
 
 .navbar-toggler-icon {
     background-color: #21e6c28f;
+    
 }
 
 #resume{
