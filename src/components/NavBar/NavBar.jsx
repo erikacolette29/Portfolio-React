@@ -7,7 +7,7 @@ const NavBar = () => {
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
         <div class="container-fluid">
           <a class="navbar-brand" id="color" href="#">
-            E
+            
           </a>
           <button 
             class="navbar-toggler"
@@ -60,21 +60,21 @@ const NavBar = () => {
             target="_blank"
             href="https://github.com/erikacolette29"
           >
-            <i class="fab fa-github"></i>
+            <i class="fab fa-github fa-2x"></i>
           </a>
           <a
             class="nav-link"
             target="_blank"
             href="https://www.linkedin.com/in/erikatidwell/"
           >
-            <i class="fab fa-linkedin"></i>
+            <i class="fab fa-linkedin fa-2x"></i>
           </a>
           <a
             class="nav-link"
             target="_blank"
             href="mailto:erikatidwell.c@gmail.com"
           >
-            <i class="far fa-envelope"></i>
+            <i class="far fa-envelope fa-2x"></i>
           </a>
         </nav>
       </div>

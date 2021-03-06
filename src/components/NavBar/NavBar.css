@@ -3,12 +3,13 @@
     bottom: 0;
     right: 0;
     padding-right: 10px;
-    padding-bottom:30px;
+    padding-bottom:40px;
     position: fixed;
 }
 
 i{
     color: #21e6c1;
+    height: 50px;
     }
 
 #color{
