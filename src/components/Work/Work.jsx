@@ -80,7 +80,7 @@ const Work = () => {
       <img src="/images/TheFinalFrontier.png" class="card-img-top proj-pic" alt="..." />
       <div class="card-body">
         <h5 class="card-title greenW">The Final Frontier</h5>
-        <p class="card-text work-text">This app is designed to educate and inform people about the eastern massage practice known as Shiatsu. Learn the theory, and find the element that speaks to you. Make a profile, add friends, and start a conversation on the message board. Figure out which elements you are too much(jitsu) of or too little(Kyo) of, and find a balance. Get linked up with a therapist from resources provided.</p>
+        <p class="card-text work-text">This project is an interactive learning experience about the solar system. Click on a planet and learn some interesting information about it. Watch as the borg ship chases the Star Trek TNG ship around the solar system. Click on them and hear what they have to say!</p>
         
         <div className="tech">
         <span>CSS</span>
