@@ -15,13 +15,15 @@
 .proj-pic{
     /* height: 200px; */
     width: 400px;
-    padding-right: 60px;
+    padding-right: 75px;
+
 }
 
 .work-text{
     color:  #aeb6c4ea;
     text-align: left;
     width: 70%;
+    font-size: 1.3rem;
 }
 
 .greenW{
@@ -29,4 +31,5 @@
     text-decoration: none;
     text-align: left;
     margin-top: 20px;
+    font-size: 1.5rem;
 }

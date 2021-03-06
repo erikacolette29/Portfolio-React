@@ -10,6 +10,20 @@
 i{
     color: #21e6c1;
     height: 50px;
+    
+        display: inline-block;
+        transition-duration: $defaultDuration;
+        transition-property: transform;
+    
+        @include hideTapHighlightColor();
+        @include hardwareAccel();
+        @include improveAntiAlias();
+    
+      
+    }
+    
+    i:hover {
+        transform: translateY(-5px);
     }
 
 #color{
@@ -44,8 +58,7 @@ i{
 
 nav{
     
-    background-color: #111b35;
-  
+  background-color: #111b35;
   padding: 20px;
    
 }
@@ -54,6 +67,7 @@ nav{
     padding-left:30px;
     padding-right:30px;
     padding-bottom: 20px;
+    font-size: 1.3rem;
   
   }
 
@@ -70,6 +84,13 @@ nav{
     border-radius: 8%;
 }
 
+#resume:hover{
+    text-decoration: none;
+    background-color: #21e6c211;
+    color: #21e6c1;
+}
+
 .dark{
     background-color: #111b35;
 }
+

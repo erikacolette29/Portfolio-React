@@ -12,6 +12,26 @@
 .heading{
     color: white;
     text-align: left;
+    font-size: 2rem;
+}
+
+.heading1{
+ 
+    text-align: left;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 500;
+    color: white;
+}
+.green1{
+    color: #21e6c1;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.blurb-text1{
+    color: #aeb6c4ea;
+    text-align: left;
+    width: 80%;
+    font-size: 1.3rem;
 }
 .green{
     color: #21e6c1;
@@ -24,6 +44,7 @@
     color: #aeb6c4ea;
     text-align: left;
     width: 80%;
+    font-size: 1.3rem;
 }
 .button{
     color: #21e6c1;
@@ -33,6 +54,7 @@
     margin-top: 30px;
     border-radius: 8%;
     text-decoration: none;
+    font-size: 1.1rem;
 }
 .button:hover{
     text-decoration: none;

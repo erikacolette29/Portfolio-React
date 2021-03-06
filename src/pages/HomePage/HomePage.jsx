@@ -9,9 +9,9 @@ const HomePage = () => {
   return (
     <>
       <div className="container">
-        <p className="green">Hi, my name is</p>
-        <h1 className="heading">Erika Tidwell.</h1>
-        <p className="blurb-text">
+        <p className="green1">Hi, my name is</p>
+        <h1 className="heading1">Erika Tidwell.</h1>
+        <p className="blurb-text1">
           I'm a Space enthusiast and Illustrator turned software engineer,
           lifelong tinkerer committed to social advocacy, environmentalism and
           wellness, looking to shape the world one line of code at a time.
