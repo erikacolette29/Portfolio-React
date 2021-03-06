@@ -7,3 +7,6 @@ Website: [my website](https://portfolio-et.herokuapp.com/).
 
 ## Tech
 - React
+- Google Fonts
+- Font Awesome
+- Bootstrap
