@@ -1,5 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import AboutMe from "../../components/AboutMe/AboutMe"
+import Experience from "../../components/Experience/Experience"
+import Work from "../../components/Work/Work"
 import "./HomePage.css";
 
 const HomePage = () => {
@@ -18,7 +20,8 @@ const HomePage = () => {
         </a>
       </div>
       <AboutMe />
-
+      <Experience />
+      <Work/>
       
     </>
   );

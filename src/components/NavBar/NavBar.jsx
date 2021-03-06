@@ -28,12 +28,12 @@ const NavBar = () => {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="color" href="#">
+                <a class="nav-link" id="color" href="#experience">
                   Experience
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="color" href="#">
+                <a class="nav-link" id="color" href="#work">
                   Work
                 </a>
               </li>

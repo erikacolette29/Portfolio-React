@@ -1,0 +1,32 @@
+.tech{
+    display: flex;
+    /* justify-content: space-evenly; */
+    color: #aeb6c4ea;
+    gap: 30px;
+
+    margin-bottom: 10px;
+
+}
+
+.a{
+    text-decoration: none;
+    color: #21e6c1;
+}
+
+.proj-pic{
+    height: 300px;
+    padding-right: 60px;
+}
+
+.work-text{
+    color:  #aeb6c4ea;
+    text-align: left;
+    width: 70%;
+}
+
+.greenW{
+    color: #21e6c1;
+    text-decoration: none;
+    text-align: left;
+    margin-top: 20px;
+}
