@@ -2,6 +2,7 @@ import React from "react";
 import AboutMe from "../../components/AboutMe/AboutMe"
 import Experience from "../../components/Experience/Experience"
 import Work from "../../components/Work/Work"
+import Contact from "../../components/Contact/Contact"
 import "./HomePage.css";
 
 const HomePage = () => {
@@ -22,6 +23,7 @@ const HomePage = () => {
       <AboutMe />
       <Experience />
       <Work/>
+      <Contact/>
       
     </>
   );
