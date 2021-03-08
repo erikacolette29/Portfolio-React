@@ -4,7 +4,7 @@ import "./AboutMe.css"
 const AboutMe = () => {
   return (
     <>
-    <div  id="about"></div>
+    
       <div className="container">
         <h1 className="heading" >
           About Me
@@ -66,6 +66,9 @@ const AboutMe = () => {
           </table>
         </div>
         <img className="profile-pic" src="/images/erika.jpeg" alt="erika-pic" />
+
+
+        <div  id="experience"></div>
       </div>
     </>
   );

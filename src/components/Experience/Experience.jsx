@@ -3,7 +3,7 @@ import "./Experience.css"
 
 const Experience = () => {
     return ( <>
-    <div  id="experience"></div>
+   
     <div className="container">
     <h1 className="heading" >My Experience</h1>
     <hr className="hr"/>
@@ -33,6 +33,7 @@ const Experience = () => {
  
 </div>
  
+<div  id="work"></div>
 </div>
 
     </> );

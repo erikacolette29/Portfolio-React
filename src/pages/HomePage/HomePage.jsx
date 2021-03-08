@@ -38,6 +38,8 @@ const HomePage = () => {
          
 
         </div>
+
+        <div  id="about"></div>
       </div>
       <AboutMe />
       <Experience />

@@ -4,9 +4,9 @@ import "./Work.css"
 
 const Work = () => {
     return ( <>
-    <div  id="work"></div>
+   
     <div className="container">
-    <h1 className="heading"  >Some Things I've Built</h1>
+    <h1 className="heading" >Some Things I've Built</h1>
     <hr className="hr"/>
 
 
