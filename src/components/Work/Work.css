@@ -21,6 +21,11 @@ span{
     padding-right: 75px;
 
 }
+@media screen and (max-width: 799px){
+    .proj-pic{
+width: 350px;
+}}
+
 
 .work-text{
     color:  #aeb6c4ea;
