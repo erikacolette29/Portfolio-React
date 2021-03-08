@@ -6,8 +6,15 @@
     padding-bottom:40px;
     position: fixed;
     z-index: 7;
-    
+   
 }
+
+@media screen and (max-width: 799px){
+    .side-nav{
+    display: none;
+}}
+
+
 
 i{
     color: #21e6c1;

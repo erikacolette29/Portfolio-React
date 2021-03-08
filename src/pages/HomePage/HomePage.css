@@ -62,3 +62,20 @@
     color: #21e6c1;
 }
 
+.icons-container{
+    margin-top: 50px;
+    display: flex;
+    flex-flow: row nowrap;
+  
+}
+
+.nav-link{
+    padding: 0;
+    padding-right: 20px;
+}
+
+
+@media screen and (min-width: 799px){
+    .con{
+    display: none;
+}}
