@@ -16,14 +16,14 @@ const Contact = () => {
             target="_blank"
             href="https://github.com/erikacolette29"
           >
-            <i class="fab fa-github fa-lg"></i>
+            <i class="fab fa-github fa-2x"></i>
           </a>
           <a
             class="nav-link con"
             target="_blank"
             href="https://www.linkedin.com/in/erikatidwell/"
           >
-            <i class="fab fa-linkedin fa-lg"></i>
+            <i class="fab fa-linkedin fa-2x"></i>
           </a>
          
 
