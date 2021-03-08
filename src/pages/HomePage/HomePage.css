@@ -5,7 +5,7 @@
     align-items: flex-start;
     margin-top: 150px;
     flex-flow: column nowrap;
-    padding: 30px;
+    padding-left: 30px;
     margin-bottom: 100px;
 }
 
@@ -30,7 +30,7 @@
 .blurb-text1{
     color: #aeb6c4ea;
     text-align: left;
-    width: 80%;
+    width: 90%;
     font-size: 1.3rem;
 }
 .green{
@@ -43,7 +43,7 @@
 .blurb-text{
     color: #aeb6c4ea;
     text-align: left;
-    width: 80%;
+    width: 90%;
     font-size: 1.3rem;
 }
 .button{
