@@ -46,6 +46,9 @@
     width: 90%;
     font-size: 1.3rem;
 }
+
+
+
 .button{
     color: #21e6c1;
     background-color: rgba(0, 0, 255, 0);
@@ -79,3 +82,12 @@
     .con{
     display: none;
 }}
+
+@media screen and (min-width: 799px){
+    .blurb-text{
+    width: 60%;
+    }
+    .blurb-text1{
+width: 70%;
+    }
+}

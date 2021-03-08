@@ -8,3 +8,9 @@
 .but{
     padding: 10px 20px;
 }
+
+
+@media screen and (min-width: 799px){
+    .jobinfo{
+   width: 60%;
+}}
