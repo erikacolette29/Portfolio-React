@@ -25,13 +25,7 @@ const Contact = () => {
           >
             <i class="fab fa-linkedin fa-lg"></i>
           </a>
-          <a
-            class="nav-link con"
-            target="_blank"
-            href="mailto:erikatidwell.c@gmail.com"
-          >
-            <i class="far fa-envelope fa-lg"></i>
-          </a>
+         
 
         </div>
     </div>
