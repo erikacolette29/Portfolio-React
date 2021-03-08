@@ -1,7 +1,9 @@
 import React from "react";
 import "./NavBar.css";
 
+
 const NavBar = () => {
+   
   return (
     <>
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
@@ -19,14 +21,14 @@ const NavBar = () => {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ">
-              <li class="nav-item">
-                <a class="nav-link" id="color" aria-current="page" href="#about">
+            <ul class="navbar-nav">
+              <li class="nav-item" >
+                <a class="nav-link"  id="color" aria-current="page" href="#about">
                   About
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="color" href="#experience">
+                <a class="nav-link " id="color" href="#experience">
                   Experience
                 </a>
               </li>
@@ -36,12 +38,12 @@ const NavBar = () => {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="color" href="#contact">
+                <a class="nav-link"  id="color" href="#contact">
                   Contact
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="resume" target="_blank" href="resume.pdf">
+                <a class="nav-link" data-toggle="collapse" id="resume" target="_blank" href="resume.pdf">
                   Resume
                 </a>
               </li>
@@ -79,5 +81,6 @@ const NavBar = () => {
     </>
   );
 };
+
 
 export default NavBar;
