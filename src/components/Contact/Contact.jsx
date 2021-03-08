@@ -3,8 +3,9 @@ import "./Contact.css"
 
 const Contact = () => {
     return ( <>
+    <div  id="contact"></div>
      <div className="container">
-    <h1 className="heading" id="contact">Get In Touch</h1>
+    <h1 className="heading" >Get In Touch</h1>
     <hr className="hr"/>
 
     <p className=" work-text1">Please feel free to contact me anytime! I'm open to new work and fun creative passion projects.</p>

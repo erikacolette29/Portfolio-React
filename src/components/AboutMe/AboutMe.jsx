@@ -4,8 +4,9 @@ import "./AboutMe.css"
 const AboutMe = () => {
   return (
     <>
+    <div  id="about"></div>
       <div className="container">
-        <h1 className="heading" id="about">
+        <h1 className="heading" >
           About Me
         </h1>
         <hr className="hr" />
