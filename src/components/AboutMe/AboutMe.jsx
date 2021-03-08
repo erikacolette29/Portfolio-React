@@ -38,8 +38,7 @@ const AboutMe = () => {
           >
             General Assembly's{" "}
           </a>
-          Software Engineering Program. I enjoy building a variety of meaningful
-          and beautiful websites that are relative to my passions.{" "}
+          Software Engineering Program. I am passionate about building meaningful and beautiful websites.{" "}
         </p>
 
         <p className="blurb-text">

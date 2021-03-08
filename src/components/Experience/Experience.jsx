@@ -26,7 +26,7 @@ const Experience = () => {
       <a className="green" target="_blank" href="https://www.behance.net/ErikaTidwell">Illustration Work <i class="fas fa-external-link-alt fa-sm"></i></a></div>
 
   <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-  <p className="jobinfo"><span className="green">Massage Therapist</span> | Four Seasons | Red Door | various |  New York, NY  | 6.16–Present</p>
+  <p className="jobinfo"><span className="green">Massage Therapist</span> | Four Seasons | Red Door | New York, NY  | 6.16–Present</p>
       <p className="jobinfo">Communicated with clients about pain points and designed targeted treatment plans for neurological diseases, pathological conditions as well as recovery after sports injuries</p>
       <p className="jobinfo">Adhered to professional standards of practice following the Forbes guidelines to optimize client experience, resulting in a high volume of return clients.</p>
       <p className="jobinfo">Led initiative to collaborate with other therapists to promote continued learning and practice of techniques.</p>
