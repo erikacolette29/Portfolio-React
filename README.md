@@ -6,7 +6,7 @@ Please feel free to email me anytime!
 Website: [Portfolio](https://portfolio-et.herokuapp.com/).
 
 
-## Tech
+### Tech
 - React
 - Google Fonts
 - Font Awesome
