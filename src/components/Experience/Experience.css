@@ -1,34 +1,32 @@
-.jobinfo{
-    width: 90%;
-    text-align: left;
-    color: #aeb6c4ea;
-    font-size: 1.3rem;
+.jobinfo {
+  width: 90%;
+  text-align: left;
+  color: #aeb6c4ea;
+  font-size: 1.3rem;
 }
 
-.but{
-    padding: 10px 20px;
+.but {
+  padding: 10px 20px;
 }
 
-
-@media screen and (min-width: 799px){
-    .jobinfo{
-   width: 60%;
-}}
-
-
-
-.buttoni{
-    color: #21e6c1;
-    background-color: rgba(0, 0, 255, 0);
-    border: #21e6c1 2px solid;
-    padding: 10px 15px;
-    margin-top: 40px;
-    border-radius: 8%;
-    text-decoration: none;
-    font-size: .9rem;
+@media screen and (min-width: 799px) {
+  .jobinfo {
+    width: 60%;
+  }
 }
-.buttoni:hover{
-    text-decoration: none;
-    background-color: #21e6c211;
-    color: #21e6c1;
+
+.buttoni {
+  color: #21e6c1;
+  background-color: rgba(0, 0, 255, 0);
+  border: #21e6c1 2px solid;
+  padding: 10px 15px;
+  margin-top: 40px;
+  border-radius: 8%;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.buttoni:hover {
+  text-decoration: none;
+  background-color: #21e6c211;
+  color: #21e6c1;
 }

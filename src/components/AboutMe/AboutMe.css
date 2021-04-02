@@ -1,20 +1,19 @@
-.hr{
-    height: 20px;
-    width: 70%;
-    border-top: .5px solid #f1f6f9de ;
-    margin-top: 10px;
+.hr {
+  height: 20px;
+  width: 70%;
+  border-top: 0.5px solid #f1f6f9de;
+  margin-top: 10px;
 }
 
-.profile-pic{
-    height: 200px;
-    border-radius: 2%;
-    box-shadow: 12px 12px 2px 1px #b2f0d8;
-    margin: 30px 0;
+.profile-pic {
+  height: 200px;
+  border-radius: 2%;
+  box-shadow: 12px 12px 2px 1px #b2f0d8;
+  margin: 30px 0;
 }
 
-table{
-    text-align: left;
-    margin-right: 50px;
-    padding: 0;
+table {
+  text-align: left;
+  margin-right: 50px;
+  padding: 0;
 }
-
