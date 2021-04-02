@@ -9,7 +9,7 @@ const Contact = () => {
     <hr className="hr"/>
 
     <p className=" work-text1">Please feel free to contact me anytime! I'm open to new work and fun creative passion projects.</p>
-    <a href="mailto:erikatidwell.c@gmail.com" className="button">Say Hello</a>
+    <a href="mailto:erikatidwell.c@gmail.com" className="button">erikatidwell.c@gmail.com</a>
     <div className="icons-container">
         <a
             class="nav-link active con" 
