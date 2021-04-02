@@ -1,9 +1,9 @@
 import React from "react";
 import "./NavBar.css";
-
+// import $ from "jquery";
 
 const NavBar = () => {
-   
+ 
   return (
     <>
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
@@ -79,8 +79,14 @@ const NavBar = () => {
         </nav>
       </div>
     </>
+    
   );
 };
+// $(document).ready(function () {
+//     $("nav").find("li").on("click", "a", function () {
+//         $('.navbar-collapse.in').collapse('hide');
+//     });
+// });
 
 
 export default NavBar;
