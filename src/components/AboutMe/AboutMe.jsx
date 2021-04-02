@@ -14,7 +14,17 @@ const AboutMe = () => {
           Hello! I'm Erika, a full-stack software engineer based in New York,
           NY.
         </p>
-
+        <p className="blurb-text">
+          I am a recent grad from{" "}
+          <a
+            className="green"
+            href="https://generalassemb.ly/education/software-engineering-immersive/new-york-city"
+            target="_blank"
+          >
+            General Assembly's{" "}
+          </a>
+          Software Engineering Program. I am passionate about building meaningful and beautiful websites.{" "}
+        </p>
         <p className="blurb-text">
           In 2014, I graduated from{" "}
           <a className="green" href="https://sva.edu/" target="_blank">
@@ -30,17 +40,7 @@ const AboutMe = () => {
           </a>{" "}
           with a AOS in Massage Therapy.
         </p>
-        <p className="blurb-text">
-          I am a recent grad from{" "}
-          <a
-            className="green"
-            href="https://generalassemb.ly/education/software-engineering-immersive/new-york-city"
-            target="_blank"
-          >
-            General Assembly's{" "}
-          </a>
-          Software Engineering Program. I am passionate about building meaningful and beautiful websites.{" "}
-        </p>
+        
 
         <p className="blurb-text">
           Here are a few technologies I've been working with recently:
@@ -54,8 +54,8 @@ const AboutMe = () => {
                 <td>Javascript</td>
               </tr>
               <tr>
-                <td>Html</td>
-                <td>CSS</td>
+                <td>Html5</td>
+                <td>CSS3</td>
                 <td>Python</td>
               </tr>
               <tr>

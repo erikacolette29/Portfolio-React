@@ -23,7 +23,9 @@ const Experience = () => {
   <p className="jobinfo"><span className="green">Illustrator</span> | LT Design | Austin, TX | 3.19-Present</p>
       <p className="jobinfo">Communicated with clients about visual requirements and brand strategy. Created visual layouts and detailed graphic elements that align with client brief and business needs. </p>
       <p className="jobinfo">Collaborated with Principal and advisor to present strategies and designs to stakeholders. Promo-edit images, including portraits, logos, banners, buttons and animation elements.</p>
-      <a className="green" target="_blank" href="https://www.behance.net/ErikaTidwell">Illustration Work <i class="fas fa-external-link-alt fa-sm"></i></a></div>
+      <br/>
+     <a className="green buttoni" target="_blank" href="https://www.behance.net/ErikaTidwell">View Illustrations</a>
+      </div>
 
   <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
   <p className="jobinfo"><span className="green">Massage Therapist</span> | Four Seasons | Red Door | New York, NY  | 6.16–Present</p>

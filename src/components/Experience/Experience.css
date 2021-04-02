@@ -14,3 +14,21 @@
     .jobinfo{
    width: 60%;
 }}
+
+
+
+.buttoni{
+    color: #21e6c1;
+    background-color: rgba(0, 0, 255, 0);
+    border: #21e6c1 2px solid;
+    padding: 10px 15px;
+    margin-top: 40px;
+    border-radius: 8%;
+    text-decoration: none;
+    font-size: .9rem;
+}
+.buttoni:hover{
+    text-decoration: none;
+    background-color: #21e6c211;
+    color: #21e6c1;
+}
