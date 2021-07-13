@@ -97,6 +97,27 @@ const Work = () => {
   </div>
 
 
+  <div class="col">
+    <div class="card  bg-transparent">
+    <a className="a" href="https://loan-calculator-et.netlify.app/" target="_blank"><img src="/images/loancal.png" class="card-img-top proj-pic" alt="..." /></a>
+      <div class="card-body">
+      <a className="a" href="http://space-nerdy.surge.sh/" target="_blank"><h5 class="card-title greenW">The Final Frontier</h5></a>
+        <p class="card-text work-text">This project is an interactive learning experience about the solar system. Click on a planet and learn some interesting information about it. Watch as the borg ship chases the Star Trek TNG ship around the solar system. Click on them and hear what they have to say!</p>
+        
+        <div className="tech">
+        <span>CSS</span>
+        <span>Javascript</span>
+        </div>
+        <div className="tech">
+        <a className="a" href="http://space-nerdy.surge.sh/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i></a>
+        <a className="a" href="https://github.com/erikacolette29/The-Final-Frontier" target="_blank"><i class="fab fa-github fa-lg"></i></a>
+       </div>
+       
+      </div>
+    </div>
+  </div>
+
+
 
 </div>
 
